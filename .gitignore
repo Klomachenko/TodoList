@@ -11,7 +11,6 @@ lerna-debug.log*
 package-lock.json
 postcss.config.js
 tailwind.config.js
-tsconfig.json
 tsconfig.app.json
 tsconfig.node.json
 vite.config.ts
