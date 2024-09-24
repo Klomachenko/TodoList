@@ -9,11 +9,6 @@ lerna-debug.log*
 
 # 환경 설정 파일 및 빌드 아티팩트
 package-lock.json
-postcss.config.js
-tailwind.config.js
-tsconfig.app.json
-tsconfig.node.json
-vite.config.ts
 
 node_modules/
 dist/
